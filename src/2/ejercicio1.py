@@ -3,8 +3,7 @@
 # Gabriel Alberto Paz González - 221087
 # Fecha: 26/07/2024
 
-# Ejercicio #2
-# Descripción: Programa que verifica si una expresión matemática está balanceada o no, además de mostrar los pasos de la pila.
+# Ejercicio #1
 
 class balanceo:
     def __init__(self):
